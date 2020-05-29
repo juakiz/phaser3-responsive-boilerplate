@@ -11,11 +11,10 @@
     "weighted-random": "^0.1.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.6",
+    "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.10.1",
     "@babel/plugin-syntax-dynamic-import": "^7.2.0",
     "@babel/preset-env": "^7.9.6",
-    "babel": "^6.23.0",
-    "babel-cli": "^6.26.0",
     "babel-loader": "^8.1.0",
     "css-loader": "^2.1.1",
     "file-loader": "^5.1.0",
