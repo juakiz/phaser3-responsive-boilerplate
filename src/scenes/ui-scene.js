@@ -53,7 +53,8 @@ export default class UIScene extends Phaser.Scene {
 
   tapToPlay() {
     const txt = createText(this, {
-      text: 'TAP TO PLAY',
+      fontFamily: 'OSWALDblack',
+      text: 'TAP TO PLAY\n,.0123456789',
       size: '94px',
       strokeThickness: 12,
     });
